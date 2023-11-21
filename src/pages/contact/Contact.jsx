@@ -42,7 +42,7 @@ const contact = () => {
                 </div>
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Our Address</h2>
-                  <p className="text-gray-400">Durgapur, West Bengal-7132xx, India</p>
+                  <p className="text-gray-400">Dhaka, Bangladesh</p>
                 </div>
               </div>
 
@@ -53,7 +53,7 @@ const contact = () => {
                 <div className="flex flex-col w-full">
                   <h2 className="text-2xl">Call Us</h2>
                   <p className="text-gray-400">Chairman: xxx-xxx-xxx</p>
-                  <p className="text-gray-400">Head Master: xxx-xxx-xxx</p>
+                  <p className="text-gray-400">CEO: xxx-xxx-xxx</p>
                 </div>
               </div>
 
@@ -63,7 +63,7 @@ const contact = () => {
                 </div>
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Email Us</h2>
-                  <p className="text-gray-400">Email: ysir@gmail.com</p>
+                  <p className="text-gray-400">Email: xxx@gmail.com</p>
                 </div>
               </div>
 
